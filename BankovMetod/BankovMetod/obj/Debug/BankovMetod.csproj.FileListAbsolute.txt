@@ -1,0 +1,7 @@
+C:\Users\1409-13\Desktop\Katrin 9a\Masivi\Klasove\BankovMetod\BankovMetod\bin\Debug\BankovMetod.exe.config
+C:\Users\1409-13\Desktop\Katrin 9a\Masivi\Klasove\BankovMetod\BankovMetod\bin\Debug\BankovMetod.exe
+C:\Users\1409-13\Desktop\Katrin 9a\Masivi\Klasove\BankovMetod\BankovMetod\bin\Debug\BankovMetod.pdb
+C:\Users\1409-13\Desktop\Katrin 9a\Masivi\Klasove\BankovMetod\BankovMetod\obj\Debug\BankovMetod.csproj.AssemblyReference.cache
+C:\Users\1409-13\Desktop\Katrin 9a\Masivi\Klasove\BankovMetod\BankovMetod\obj\Debug\BankovMetod.csproj.CoreCompileInputs.cache
+C:\Users\1409-13\Desktop\Katrin 9a\Masivi\Klasove\BankovMetod\BankovMetod\obj\Debug\BankovMetod.exe
+C:\Users\1409-13\Desktop\Katrin 9a\Masivi\Klasove\BankovMetod\BankovMetod\obj\Debug\BankovMetod.pdb
