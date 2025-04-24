@@ -1,0 +1,7 @@
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Klasove na 9a\bin\Debug\Klasove na 9a.exe.config
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Klasove na 9a\bin\Debug\Klasove na 9a.exe
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Klasove na 9a\bin\Debug\Klasove na 9a.pdb
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Klasove na 9a\obj\Debug\Klasove na 9a.csproj.AssemblyReference.cache
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Klasove na 9a\obj\Debug\Klasove na 9a.csproj.CoreCompileInputs.cache
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Klasove na 9a\obj\Debug\Klasove na 9a.exe
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Klasove na 9a\obj\Debug\Klasove na 9a.pdb

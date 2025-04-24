@@ -1,0 +1,7 @@
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Banka2\bin\Debug\Banka2.exe.config
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Banka2\bin\Debug\Banka2.exe
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Banka2\bin\Debug\Banka2.pdb
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Banka2\obj\Debug\Banka2.csproj.AssemblyReference.cache
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Banka2\obj\Debug\Banka2.csproj.CoreCompileInputs.cache
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Banka2\obj\Debug\Banka2.exe
+C:\Users\1409-13\Desktop\Katrin 9a\Klasove\Klasove na 9a\Banka2\obj\Debug\Banka2.pdb
